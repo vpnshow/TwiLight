@@ -6,21 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/twilight) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-暮光网络（TwiLight，又称暮光加速）主打**专线出口与通用订阅**，支持 **VLESS、Shadowsocks**。基础版从 **¥20/月、120GB/月**起；年付轻量版为 **¥109/年、70GB/月**，折合约 **¥9.08/月**。另有 **¥219/150GB、¥529/400GB、¥959/800GB** 三档一次性不限时流量包。
-
 > [!NOTE]
 > **30 秒看懂暮光网络(TwiLight)**
 >
-> - **月付起步**：基础版 ¥20/月、120GB/月；另有 300GB、700GB 和 1500GB/月档位。
-> - **最低年付**：年付轻量版 ¥109/年、70GB/月，折合约 ¥9.08/月，需一次支付全年费用。
-> - **不限时套餐**：¥219/150GB 起，一次性付费、固定总流量用完为止，不按周期重置。
-> - **新人优惠**：新用户使用 `mm88` 享 8 折，适用套餐与折后价格以结算页为准。
-> - **协议与订阅**：支持 VLESS、Shadowsocks 与通用订阅，节点覆盖香港、台湾、日本、新加坡和美国。
-> - **支付方式**：支付宝、微信支付与 USDT；微信和 USDT 需联系官网客服。
-> - **客服与退款**：服务商称提供 24 小时客服、线路问题 1 小时内处理及退款支持，具体适用条件需在购买前确认。
+> [访问官网](https://eoht.net/serve/airport/twilight) · [查看套餐价格](https://eoht.net/serve/airport/twilight#twilight-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/twilight#twilight-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐价格](https://eoht.net/serve/airport/twilight#twilight-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/twilight#twilight-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：基础版 ¥20/月、120GB/月；年付轻量版 ¥109/年、70GB/月，需一次支付全年费用。
+> - **服务方式**：VLESS、Shadowsocks 与通用订阅；不限时包从一次性 ¥219/150GB 起，固定总流量用完即止，不按周期重置。
+> - **优惠与退款**：`mm88` 新用户 8 折，适用套餐与实付金额以结算页为准；服务商称支持退款，具体条件应在购买前确认。
 >
+
+暮光网络（TwiLight，又称暮光加速）主打**专线出口与通用订阅**，支持 **VLESS、Shadowsocks**。基础版从 **¥20/月、120GB/月**起；年付轻量版为 **¥109/年、70GB/月**，折合约 **¥9.08/月**。另有 **¥219/150GB、¥529/400GB、¥959/800GB** 三档一次性不限时流量包。
 
 <a id="twilight-official-website"></a>
 
